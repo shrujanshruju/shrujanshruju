@@ -44,7 +44,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>📄 <a href="https://github.com/shrujanshruju/easyfinder-">EasyFinder</a></h3>
+      <h3>📄 <a href="https://github.com/shrujanshruju/easyfinder">EasyFinder</a></h3>
       Finds property tax and khata records by number inside Karnataka e-Aasthi register PDFs and builds a clean A4 PDF in month order. Runs fully in the browser, so no PDF is ever uploaded.<br/><br/>
       <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/PDF.js-ec1c24?style=flat-square" />
